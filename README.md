@@ -8,27 +8,27 @@
 
 Contents
 
-[**Introduction** 3](#_Toc211517418)
+[**Introduction**](#_Toc211517418)
 
-[**Toolkit App Concept** 4](#_Toc211517419)
+[**Toolkit App Concept**](#_Toc211517419)
 
-[**Module 1: FRAMEWORKS** 5](#_Toc211517420)
+[**Module 1: FRAMEWORKS**](#_Toc211517420)
 
-[**Module 2: TOOLS** 6](#_Toc211517421)
+[**Module 2: TOOLS**](#_Toc211517421)
 
-[**Module 3: TEMPLATES** 7](#_Toc211517422)
+[**Module 3: TEMPLATES**](#_Toc211517422)
 
-[**Module 4: STEP-BY-STEP TUTORIALS** 8](#_Toc211517423)
+[**Module 4: STEP-BY-STEP TUTORIALS**](#_Toc211517423)
 
-[**Module 5: VIDEO TRAINING** 9](#_Toc211517424)
+[**Module 5: VIDEO TRAINING**](#_Toc211517424)
 
-[**Module 6: REAL-LIFE EXAMPLES** 10](#_Toc211517425)
+[**Module 6: REAL-LIFE EXAMPLES**](#_Toc211517425)
 
-[**Module7: ADVICE FROM CONSULTANTS** 11](#_Toc211517426)
+[**Module7: ADVICE FROM CONSULTANTS**](#_Toc211517426)
 
-[**Module 8: BEST PRACTICES** 12](#_Toc211517427)
+[**Module 8: BEST PRACTICES**](#_Toc211517427)
 
-[**Conclusion** 13](#_Toc211517428)
+[**Conclusion**](#_Toc211517428)
 
 ## **Introduction**
 
@@ -176,3 +176,4 @@ The **3D and XR Toolkit for Cultural Heritage** is a crucial step towards democr
 The integration of **best practices, standardized workflows, and cutting-edge technological guidance** will allow CHIs to improve the **efficiency, accuracy, and interoperability** of their digital collections. Furthermore, by aligning with the **European Data Space for Cultural Heritage**, this initiative enhances **collaborative data-sharing, preservation strategies, and open-access cultural heritage initiatives** at a European level.
 
 Moving forward, the next steps in the **toolkit's development** will focus on **refining its modular structure**, incorporating **feedback from early testing**, and ensuring seamless **integration with existing digitization platforms and repositories**. The long-term vision is to create a **sustainable, adaptable, and evolving resource** that continues to support CHIs beyond the scope of the RCtoDC project, fostering a culture of **digital innovation and preservation excellence**.
+
