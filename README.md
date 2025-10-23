@@ -36,9 +36,11 @@ The initial concept of the toolkit is structured **into multiple key modules**, 
 
 ## **Toolkit App Concept**
 
-[<img src="images/ToolkitSchema.png" width="300">](logo_dark.svg)
+[<img src="images/ToolkitSchema.png" width="300">](Toolkit)
 
 ## **Module 1: FRAMEWORKS**
+
+[<img src="images/Module1Frameworks.png" width="300">](Module1)
 
 Project summary
 
@@ -78,6 +80,8 @@ The project contributes to the Digital Europe Program by advancing the digital t
 
 ## **Module 2: TOOLS**
 
+[<img src="images/Module2Tools.png" width="300">](Module2)
+
 **Purpose:** Provide an overview of equipment/recording tools used for digitization
 
 **Content:**
@@ -98,6 +102,8 @@ The project contributes to the Digital Europe Program by advancing the digital t
 
 ## **Module 3: TEMPLATES**
 
+[<img src="images/Module3Templates.png" width="300">](Module3)
+
 **Purpose:** Provide standardized templates for documentation and reporting.
 
 **Content:**
@@ -106,8 +112,11 @@ The project contributes to the Digital Europe Program by advancing the digital t
   - Object ID template in all languages.
   - …
   - Other types of templates.
+    [<img src="images/Template1.png" width="300">](Template)
 
 ## **Module 4: STEP-BY-STEP TUTORIALS**
+
+[<img src="images/Module4StepByStepTutorials.png" width="300">](Module4)
 
 **Purpose:** Provide detailed tutorials for digitization and digitalization methods.
 
@@ -122,6 +131,8 @@ The project contributes to the Digital Europe Program by advancing the digital t
 - **Application of Axiell Collections software for creation and aggregation of cultural heritage institution's databases**:
 
 ## **Module 5: VIDEO TRAINING**
+
+[<img src="images/Module5VideoTraining.png" width="300">](Module5)
 
 **Purpose:** Provide visual education and tutorial for RCtoDC processes.
 
@@ -139,6 +150,8 @@ The project contributes to the Digital Europe Program by advancing the digital t
 
 ## **Module 6: REAL-LIFE EXAMPLES**
 
+[<img src="images/Module6RealLifeExamples.png" width="300">](Module6)
+
 **Purpose:**
 
 **Content:**
@@ -146,6 +159,8 @@ The project contributes to the Digital Europe Program by advancing the digital t
 - 1. **Excel sheet**
 
 ## **Module 7: ADVICE FROM CONSULTANTS**
+
+[<img src="images/Module7AdviceFromConsultants.png" width="300">](Module7)
 
 **Purpose:** Provide access to a network of professionals for consultation and support.
 
@@ -167,6 +182,8 @@ Other experts will be added during the further Toolkit development.
 
 ## **Module 8: BEST PRACTICES**
 
+[<img src="images/Module8BestPractices.png" width="300">](Module8)
+
 **Purpose:** As a result of RCtoDC project the best practice is going to be decided on.
 
 ## **Conclusion**
@@ -176,6 +193,7 @@ The **3D and XR Toolkit for Cultural Heritage** is a crucial step towards democr
 The integration of **best practices, standardized workflows, and cutting-edge technological guidance** will allow CHIs to improve the **efficiency, accuracy, and interoperability** of their digital collections. Furthermore, by aligning with the **European Data Space for Cultural Heritage**, this initiative enhances **collaborative data-sharing, preservation strategies, and open-access cultural heritage initiatives** at a European level.
 
 Moving forward, the next steps in the **toolkit's development** will focus on **refining its modular structure**, incorporating **feedback from early testing**, and ensuring seamless **integration with existing digitization platforms and repositories**. The long-term vision is to create a **sustainable, adaptable, and evolving resource** that continues to support CHIs beyond the scope of the RCtoDC project, fostering a culture of **digital innovation and preservation excellence**.
+
 
 
 
