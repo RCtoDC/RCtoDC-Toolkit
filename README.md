@@ -48,27 +48,27 @@ The project consists of four distinctive WPs executed within 18 months that invo
 
 General objectives are:
 
-1\. Digitize cultural heritage artefacts at risk and make them available to the public through the use of 3D and XR technologies
+1. Digitize cultural heritage artefacts at risk and make them available to the public through the use of 3D and XR technologies
 
-2\. Create a Toolkit for 3D and XR digitization
+2. Create a Toolkit for 3D and XR digitization
 
-3\. Offer online and on-site trainings for CHIs and other stakeholders
+3. Offer online and on-site trainings for CHIs and other stakeholders
 
-4\. Two new collections on Europeana, one of baroque sculptures by Francesco Robba and one of baroque objects from Croatia and Slovenia
+4. Two new collections on Europeana, one of baroque sculptures by Francesco Robba and one of baroque objects from Croatia and Slovenia
 
-5\. Equalizing digitization across Europe
+5. Equalizing digitization across Europe
 
 Specific objectives are:
 
-1\. Digitize 30 objects at risk from southeastern Europe by Francesco Robba and other baroque sculptors
+1. Digitize 30 objects at risk from southeastern Europe by Francesco Robba and other baroque sculptors
 
-2\. Create AR experiences for 30 3D-scanned objects
+2. Create AR experiences for 30 3D-scanned objects
 
-3\. Create training materials and an app for learning about 3D and XR digitization
+3. Create training materials and an app for learning about 3D and XR digitization
 
-4\. Upload the digitized objects to Europeana and collaborate with other relevant organizations
+4. Upload the digitized objects to Europeana and collaborate with other relevant organizations
 
-5\. Reduce the physical impact and carbon footprint of cultural heritage preservation
+5. Reduce the physical impact and carbon footprint of cultural heritage preservation
 
 The project contributes to the Digital Europe Program by advancing the digital transformation of cultural heritage institutions and indirectly contributes to the European Green Deal by reducing physical impact and carbon footprint.
 
@@ -174,6 +174,7 @@ The **3D and XR Toolkit for Cultural Heritage** is a crucial step towards democr
 The integration of **best practices, standardized workflows, and cutting-edge technological guidance** will allow CHIs to improve the **efficiency, accuracy, and interoperability** of their digital collections. Furthermore, by aligning with the **European Data Space for Cultural Heritage**, this initiative enhances **collaborative data-sharing, preservation strategies, and open-access cultural heritage initiatives** at a European level.
 
 Moving forward, the next steps in the **toolkit's development** will focus on **refining its modular structure**, incorporating **feedback from early testing**, and ensuring seamless **integration with existing digitization platforms and repositories**. The long-term vision is to create a **sustainable, adaptable, and evolving resource** that continues to support CHIs beyond the scope of the RCtoDC project, fostering a culture of **digital innovation and preservation excellence**.
+
 
 
 
