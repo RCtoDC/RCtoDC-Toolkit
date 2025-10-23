@@ -72,6 +72,8 @@ Specific objectives are:
 
 The project contributes to the Digital Europe Program by advancing the digital transformation of cultural heritage institutions and indirectly contributes to the European Green Deal by reducing physical impact and carbon footprint.
 
+[Read More](/Module1)
+
 ## **Module 2: TOOLS**
 
 **Purpose:** Provide an overview of equipment/recording tools used for digitization
@@ -172,6 +174,7 @@ The **3D and XR Toolkit for Cultural Heritage** is a crucial step towards democr
 The integration of **best practices, standardized workflows, and cutting-edge technological guidance** will allow CHIs to improve the **efficiency, accuracy, and interoperability** of their digital collections. Furthermore, by aligning with the **European Data Space for Cultural Heritage**, this initiative enhances **collaborative data-sharing, preservation strategies, and open-access cultural heritage initiatives** at a European level.
 
 Moving forward, the next steps in the **toolkit's development** will focus on **refining its modular structure**, incorporating **feedback from early testing**, and ensuring seamless **integration with existing digitization platforms and repositories**. The long-term vision is to create a **sustainable, adaptable, and evolving resource** that continues to support CHIs beyond the scope of the RCtoDC project, fostering a culture of **digital innovation and preservation excellence**.
+
 
 
 
