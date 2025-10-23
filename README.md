@@ -1,10 +1,6 @@
-**TOOLKIT FOR 3D AND XR**
+[<img src="https://www.rctodc.eu/images/logo-dark.svg" width="200">](logo_dark.svg)
 
-**USER-FRIENDLY APP**
-
-**M4**
-
-**All intellectual property rights and copyright reserved - RCtoDC**
+# TOOLKIT FOR 3D AND XR
 
 Contents
 
@@ -176,5 +172,6 @@ The **3D and XR Toolkit for Cultural Heritage** is a crucial step towards democr
 The integration of **best practices, standardized workflows, and cutting-edge technological guidance** will allow CHIs to improve the **efficiency, accuracy, and interoperability** of their digital collections. Furthermore, by aligning with the **European Data Space for Cultural Heritage**, this initiative enhances **collaborative data-sharing, preservation strategies, and open-access cultural heritage initiatives** at a European level.
 
 Moving forward, the next steps in the **toolkit's development** will focus on **refining its modular structure**, incorporating **feedback from early testing**, and ensuring seamless **integration with existing digitization platforms and repositories**. The long-term vision is to create a **sustainable, adaptable, and evolving resource** that continues to support CHIs beyond the scope of the RCtoDC project, fostering a culture of **digital innovation and preservation excellence**.
+
 
 
